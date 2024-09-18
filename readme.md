@@ -23,15 +23,15 @@ color-contrast-checker-extension/
     └── icon.png           # Icône de l'extension  
 
  ## 📖 Comment utiliser
-Télécharger et installer : Clonez ce dépôt ou téléchargez l'archive ZIP.  
-Charger l'extension :  
-Ouvrez chrome://extensions/ dans Chrome.  
-Activez le mode développeur (en haut à droite).  
+-Télécharger et installer : Clonez ce dépôt ou téléchargez l'archive ZIP.  
+-Charger l'extension :  
+ Ouvrez chrome://extensions/ dans Chrome.  
+ Activez le mode développeur (en haut à droite).  
 Cliquez sur Charger l'extension non empaquetée et sélectionnez le dossier du projet.  
 **Analyser une page :**  
 Accédez à une page web.  
-Cliquez sur l'icône de l'extension dans la barre d'outils.  
-Cliquez sur Vérifier le contraste pour afficher les résultats. 
+-Cliquez sur l'icône de l'extension dans la barre d'outils.  
+-Cliquez sur Vérifier le contraste pour afficher les résultats. 
 
 ## 🛠️ Technologies utilisées  
 HTML : Structure de la popup.  
