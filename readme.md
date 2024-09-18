@@ -42,4 +42,4 @@ Chrome Extensions API : Pour l'injection de scripts et la gestion des permission
 🌟 Mise en évidence visuelle des éléments non conformes sur la page.  
 📊 Rapport exportable en JSON ou CSV pour une analyse approfondie.  
 ⚙️ Personnalisation des paramètres d'analyse (seuils de contraste, types d’éléments ciblés).  
-**Créé avec ❤️ pour améliorer l'accessibilité web.**  
+## Créé avec ❤️ pour améliorer l'accessibilité web.
