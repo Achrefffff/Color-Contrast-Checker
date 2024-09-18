@@ -29,7 +29,7 @@ color-contrast-checker-extension/
  Activez le mode développeur (en haut à droite).  
 Cliquez sur Charger l'extension non empaquetée et sélectionnez le dossier du projet.  
 **Analyser une page :**  
-Accédez à une page web.  
+-Accédez à une page web.  
 -Cliquez sur l'icône de l'extension dans la barre d'outils.  
 -Cliquez sur Vérifier le contraste pour afficher les résultats. 
 
