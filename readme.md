@@ -28,7 +28,7 @@ Charger l'extension :
 Ouvrez chrome://extensions/ dans Chrome.  
 Activez le mode développeur (en haut à droite).  
 Cliquez sur Charger l'extension non empaquetée et sélectionnez le dossier du projet.  
-Analyser une page :  
+**Analyser une page :**  
 Accédez à une page web.  
 Cliquez sur l'icône de l'extension dans la barre d'outils.  
 Cliquez sur Vérifier le contraste pour afficher les résultats. 
