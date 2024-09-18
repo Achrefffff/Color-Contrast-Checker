@@ -11,7 +11,7 @@ Une extension Chrome qui vérifie automatiquement le contraste des couleurs d'un
 
 ## 📂 Structure du projet
   
-```bash
+
 color-contrast-checker-extension/  
 │
 ├── manifest.json          # Configuration de l'extension Chrome
@@ -22,7 +22,7 @@ color-contrast-checker-extension/
 └── icons/
     └── icon.png           # Icône de l'extension  
 
-## 📖 Comment utiliser
+ ## 📖 Comment utiliser
 Télécharger et installer : Clonez ce dépôt ou téléchargez l'archive ZIP.  
 Charger l'extension :  
 Ouvrez chrome://extensions/ dans Chrome.  
@@ -31,7 +31,8 @@ Cliquez sur Charger l'extension non empaquetée et sélectionnez le dossier du p
 Analyser une page :  
 Accédez à une page web.  
 Cliquez sur l'icône de l'extension dans la barre d'outils.  
-Cliquez sur Vérifier le contraste pour afficher les résultats.  
+Cliquez sur Vérifier le contraste pour afficher les résultats. 
+ 
 ## 🛠️ Technologies utilisées  
 HTML : Structure de la popup.  
 CSS : Design et mise en forme.  
